@@ -1,8 +1,9 @@
- * ::before, *::after{
+*, * ::before, *::after{
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-      }
+        background-color: rgba(0, 128, 0, 0.473);      
+}
 
 :root {
     /* Typography */
@@ -23,19 +24,16 @@
     --box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
 }
 
+html {
+    font-size: 16px;
+}
 
 body {
     min-height: 100vh;
     font-family: var(--font-family);
-    line-height: 1.5;
+    line-height: 1.6;
+    color: black;
     background-color: var(--body-bg);
-}
-
-main {
-    min-width: 300px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .author-info {
