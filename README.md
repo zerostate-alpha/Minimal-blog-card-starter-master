@@ -38,7 +38,7 @@
 
 ## Overview
 
-![screenshot](<img width="984" height="977" alt="image" src="https://github.com/zerostate-alpha/Minimal-blog-card-starter-master/blob/main/Screenshot_3-3-2026_212951_zerostate-alpha.github.io.png" />
+![screenshot](<img width="984" height="977" alt="image" src="Screenshot_3-3-2026_212951_zerostate-alpha.github.io.png" />
 )
 
 <!--
