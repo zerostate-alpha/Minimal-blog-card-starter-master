@@ -30,6 +30,11 @@ html {
 
 body {
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
     font-family: var(--font-family);
     line-height: 1.6;
     color: black;
