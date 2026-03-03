@@ -71,6 +71,11 @@ img {
     background-color: var(--tag-bg);
 }
 
+.title {
+    font-size: var(--font-title-size);
+    color: var(--font-title-clr);
+}
+
 .author-info {
     font-size: 14px;
     text-align: center;
