@@ -41,7 +41,7 @@ body {
 }
 
 .blog--card {
-    max-width: 350px;
+    max-width: 370px;
     display: flex;
     flex-direction: column;
     justify-content: center;
