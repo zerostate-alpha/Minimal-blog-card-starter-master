@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="{https://[your-demo-link.your-domain](https://zerostate-alpha.github.io/Minimal-blog-card-starter-master/)}">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="{[https://your-url-to-the-solution](https://github.com/zerostate-alpha/Minimal-blog-card-starter-master)}">
       Solution
     </a>
     <span> | </span>
