@@ -38,8 +38,7 @@
 
 ## Overview
 
-![screenshot](<img width="755" height="668" alt="screenshot-minimal_blog_card" src="resources/screenshot-minimal_blog_card.png" />
-)
+<img src="resources/screenshot-minimal_blog_card.png" height="300">
 
 <!--
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
