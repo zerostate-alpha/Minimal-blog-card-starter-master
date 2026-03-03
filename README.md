@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/zerostate-alpha/Minimal-blog-card-starter-master">
       Solution
     </a>
     <span> | </span>
