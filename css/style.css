@@ -67,6 +67,7 @@ img {
     font-size: var(--font-tag-size);
     color: var(--font-tag-clr);
     padding: 0.25rem 1rem;
+    margin: 1rem 0;
     border-radius: 100vh;
     background-color: var(--tag-bg);
 }
