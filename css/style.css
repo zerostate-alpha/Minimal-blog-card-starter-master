@@ -89,6 +89,10 @@ img {
     color: var(--font-text-clr);
 }
 
+.author--container {
+    border-top: 2px solid #F2EAFD;
+}
+
 .author-info a {
     text-decoration: none;
 }
