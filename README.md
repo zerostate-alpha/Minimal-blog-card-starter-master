@@ -38,7 +38,8 @@
 
 ## Overview
 
-![screenshot](<img width="984" height="977" alt="image" src="Screenshot_3-3-2026_212951_zerostate-alpha.github.io.png"/>)
+![screenshot](<img width="755" height="668" alt="screenshot-minimal_blog_card" src="https://github.com/user-attachments/assets/fffe75ff-a335-4174-b4c9-d173422f0f4b" />
+)
 
 <!--
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
