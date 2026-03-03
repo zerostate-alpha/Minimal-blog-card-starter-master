@@ -84,6 +84,11 @@ img {
     color: rgb(55, 65, 81);
 }
 
+.text, .author--name {
+    font-size: var(--font-text-size);
+    color: var(--font-text-clr);
+}
+
 .author-info a {
     text-decoration: none;
 }
