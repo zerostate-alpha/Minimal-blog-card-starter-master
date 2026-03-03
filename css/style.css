@@ -50,6 +50,10 @@ body {
     box-shadow: var(--box-shadow);
 }
 
+.content--container, .author--container {
+    padding: 1rem;
+}
+
 img {
     width: 100%;
     height: auto;
