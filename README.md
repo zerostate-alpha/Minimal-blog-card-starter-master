@@ -38,7 +38,7 @@
 
 ## Overview
 
-![screenshot](<img width="755" height="668" alt="screenshot-minimal_blog_card" src="https://github.com/user-attachments/assets/fffe75ff-a335-4174-b4c9-d173422f0f4b" />
+![screenshot](<img width="755" height="668" alt="screenshot-minimal_blog_card" src="resources/screenshot-minimal_blog_card.png" />
 )
 
 <!--
