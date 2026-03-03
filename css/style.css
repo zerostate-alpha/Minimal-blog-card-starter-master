@@ -60,6 +60,17 @@ img {
     border-radius: 0.75rem;
 }
 
+.tag {
+    width: 70px;
+    text-align: center;
+    font-weight: 700;
+    font-size: var(--font-tag-size);
+    color: var(--font-tag-clr);
+    padding: 0.25rem 1rem;
+    border-radius: 100vh;
+    background-color: var(--tag-bg);
+}
+
 .author-info {
     font-size: 14px;
     text-align: center;
