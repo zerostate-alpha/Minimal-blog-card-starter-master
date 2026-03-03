@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://zerostate-alpha.github.io/Minimal-blog-card-starter-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://zerostate-alpha.github.io/Minimal-blog-card-starter-master/">
+    <a href="">
       Solution
     </a>
     <span> | </span>
