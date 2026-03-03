@@ -9,34 +9,27 @@
     --font-family: sora, sans-serif;
     --font-title-size: 1.125rem;
     --font-text-size: 0.875rem;
-    --font-sm-text-size: 0.75rem;
+    --font-author-text: 0.75rem;
     --font-tag-size: 0.625rem;
     --font-title-clr: #20293A;
     --font-text-clr: #394150;
-    --font-btn-text-clr: #7C19EE;
-    --font-tag-clr: #394150;
+    --font-tag-clr: #7C19EE;
+    --font-author-clr: #394150;
 
     /* Backgrounds */
     --body-bg: #F2EAFD;
     --main-bg: #FAFAF9;
-    --post-bg: #FFFFFF;
-    --button-bg: #E5EAF0;
-
-    /* Custome Style */
-    --padding-post: 1rem;
-    --padding-16: 1rem;
-    --padding-06: 0.3rem;
+    --blog-bg: #FFFFFF;
+    --tag-bg: #E5EAF0;
     --box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
-    --margin-20: 1.25rem;
-    --margin-04: 0.25rem;
-    --border-radius-post: 1.25rem;
-    --border-radius-image: 0.625rem;
-    --border-radius-button: 0.625rem;
 }
 
 
 body {
-    height: 100vh;
+    min-height: 100vh;
+    font-family: var(--font-family);
+    line-height: 1.5;
+    background-color: var(--body-bg);
 }
 
 .author-info {
