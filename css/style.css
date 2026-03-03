@@ -50,6 +50,11 @@ body {
     box-shadow: var(--box-shadow);
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 .author-info {
     font-size: 14px;
     text-align: center;
