@@ -18,7 +18,6 @@
 
     /* Backgrounds */
     --body-bg: #F2EAFD;
-    --main-bg: #FAFAF9;
     --blog-bg: #FFFFFF;
     --tag-bg: #E5EAF0;
     --box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
@@ -30,6 +29,13 @@ body {
     font-family: var(--font-family);
     line-height: 1.5;
     background-color: var(--body-bg);
+}
+
+main {
+    min-width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .author-info {
